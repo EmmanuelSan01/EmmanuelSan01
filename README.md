@@ -175,20 +175,20 @@
 <details open>
   <summary><strong>📊More Stats:</strong></summary>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelsan01&show_icons=true&locale=en&layout=donut&theme=radical" alt="Most Used Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelsan01&show_icons=true&locale=en&layout=donut&theme=discord_old_blurple" alt="Most Used Languages"/>
     </div>
     
   <br>
     
   <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=emmanuelsan01&show_icons=true&locale=en&theme=radical" alt="Github Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=emmanuelsan01&show_icons=true&locale=en&theme=discord_old_blurple" alt="Github Stats"/>
   </div>
     
   <br>
     
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=emmanuelsan01&theme=radical" alt="Github Trophys"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=emmanuelsan01&theme=discord" alt="Github Trophys"/>
     </a>
   </div>
 </details>
