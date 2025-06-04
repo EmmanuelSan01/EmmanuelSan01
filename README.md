@@ -1,17 +1,17 @@
 <h1 align="center">Hi!👋 I'm Emmanuel 👨‍💻</h1>
 
 <h4 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=19&letterSpacing=2px&duration=2700&pause=700&color=EBEBFF&background=0b0b52&vCenter=true&width=870&height=50&separator=%3C&lines=+++%F0%9F%A7%A0I+am+a+philomath:+A+lover+of+learning.%3C%F0%9F%92%96+%22El+que+no+vive+para+servir,+no+sirve+para+vivir%22+%7E+Santa+Teresa+de+Calcuta.%3C%F0%9F%9A%80Part+coder,+part+creator,+full-time+problem-solver.%3C%F0%9F%9A%97I+am+a+go-getter,+committed+to+continuous+learning.%3C%F0%9F%94%8DForever+curious,+forever+building+I+turn+challenges+into+opportunities.%3C%F0%9F%92%ABDriven+by+passion,+powered+by+learning+I+grow+with+every+line+of+code.%3C%F0%9F%8F%A1Builder+of+systems,+breaker+of+limits+I+evolve+with+every+challenge." alt="About me:">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=19&letterSpacing=2px&duration=2700&pause=700&color=EBEBFF&background=432956&vCenter=true&width=870&height=50&separator=%3C&lines=+++%F0%9F%A7%A0I+am+a+philomath:+A+lover+of+learning.%3C%F0%9F%92%96+%22El+que+no+vive+para+servir,+no+sirve+para+vivir%22+%7E+Santa+Teresa+de+Calcuta.%3C%F0%9F%9A%80Part+coder,+part+creator,+full-time+problem-solver.%3C%F0%9F%9A%97I+am+a+go-getter,+committed+to+continuous+learning.%3C%F0%9F%94%8DForever+curious,+forever+building+I+turn+challenges+into+opportunities.%3C%F0%9F%92%ABDriven+by+passion,+powered+by+learning+I+grow+with+every+line+of+code.%3C%F0%9F%8F%A1Builder+of+systems,+breaker+of+limits+I+evolve+with+every+challenge." alt="About me:">
 </h4>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=emmanuelsan01&exclude_days=Sun,Sat&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C3B05FF%2CDB1471" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=emmanuelsan01&exclude_days=Sun,Sat&theme=sunset-gradient&hide_border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=910&card_height=210&background=13%2C087CFA%2CFE2857" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=emmanuelsan01&label=Profile%20Views&color=B342DC&style=flat" alt="Profile Views" height="27" width="142"/>
+  <img src="https://komarev.com/ghpvc/?username=emmanuelsan01&label=Profile%20Views&color=8352A9&style=flat" alt="Profile Views" height="27" width="142"/>
 </div>
 
 >[!NOTE]
