@@ -189,7 +189,7 @@
   <br>
     
   <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=emmanuelsan01&show_icons=true&locale=en&bg_color=DEG,087CFA,FF2957&hide_border=true&text_color=FFFFFF&title_color=E7F702&icon_color=E7F702" alt="Github Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=emmanuelsan01&show_icons=true&locale=en&hide=stars,issues&rank_icon=percentile&bg_color=DEG,087CFA,FF2957&hide_border=true&text_color=FFFFFF&title_color=E7F702&icon_color=E7F702" alt="Github Stats"/>
   </div>
     
   <br>
