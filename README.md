@@ -14,9 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=emmanuelsan01&label=Profile%20Views&color=8352A9&style=flat" alt="Profile Views" height="27" width="142"/>
 </div>
 
->[!NOTE]
->**I'm open to receiving offers for jobs**.
-
 <details open>
   <summary><strong>📲 Connect with me:</strong></summary>
   <div align="center">
