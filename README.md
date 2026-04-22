@@ -147,14 +147,6 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <th align="left">🎬 Media Tools</th>
-      <td align="center">
-        <a href="https://filmora.wondershare.net/" target="_blank" rel="noreferrer">
-          <img src="https://img.icons8.com/fluent/512/filmora.png" alt="Filmora" width="40"/>
-        </a>
-      </td>
-    </tr>
   </table>
 </details>
 
