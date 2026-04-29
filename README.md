@@ -15,32 +15,21 @@
 </div>
 
 <details open>
-  <summary><strong>📲 Connect with me:</strong></summary>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/emmanuelsan01" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="27" width="62"/>
-    </a>
-  </div>
-  <p align="center">
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=emmanuelsandev@gmail.com&su=Hi,+dear+Emmanuel.&body=I+want+to+contact+you+to…"><i><tt><b>emmanuelsandev@gmail.com</b></i></tt></a>
-</details>
-
-<details open>
   <summary><strong>🛠️ My Skill Set:</strong></summary>
   <table align="center" cellpadding="10">
     <tr>
       <th align="left">🌐 Frontend</th>
       <td align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+          <img src="https://i.pinimg.com/1200x/b2/22/b7/b222b76ecbf021ffa6f71aefc8cd4964.jpg" alt="HTML" width="40"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png" alt="CSS" width="40"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40"/>
         </a>
       </td>
     </tr>
@@ -64,7 +53,7 @@
         </a>
         &nbsp;&nbsp;
         <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="Java" width="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40"/>
         </a>
       </td>
     </tr>
@@ -75,11 +64,11 @@
         </a>
         &nbsp;&nbsp;
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Postgre SQL" width="42"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="42"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-          <img src="https://www.dataprix.com/files/uploads/103image/logo_sqlserver.png" alt="SQL Server" width="42"/>
+          <img src="https://linube.com/blog/wp-content/uploads/sql-server-min.png" alt="SQL Server" width="42"/>
         </a>
       </td>
     </tr>
@@ -103,11 +92,11 @@
         </a>
         &nbsp;&nbsp;
         <a href="https://github.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
+          <img src="https://cdn-icons-png.flaticon.com/64/5968/5968866.png" alt="GitHub" width="40"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-          <img src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png" alt="SCRUM" width="40"/>
+          <img src="https://cdn-icons-png.flaticon.com/64/4922/4922206.png" alt="SCRUM" width="40"/>
         </a>
       </td>
     </tr>
@@ -123,11 +112,11 @@
         </a>
         &nbsp;&nbsp;
         <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/1200px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" alt="IntelliJ IDEA" width="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/120px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" alt="IntelliJ IDEA" width="40"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Google Colab" width="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Colab_pic.png/330px-Google_Colab_pic.png" alt="Google Colab" width="64"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://staruml.io/" target="_blank" rel="noreferrer">
@@ -139,7 +128,7 @@
       <th align="left">🐧 Operating Systems</th>
       <td align="center">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/250px-TuxFlat.svg.png" alt="Linux" width="40"/>
         </a>
       &nbsp;&nbsp;
         <a href="https://blogs.windows.com/">
