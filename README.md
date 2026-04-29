@@ -101,7 +101,7 @@
       </td>
     </tr>
     <tr>
-      <th align="left">💼 IDEs & Dev Environments</th>
+      <th align="left">💼 Development Environments</th>
       <td align="center">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
@@ -119,9 +119,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Colab_pic.png/330px-Google_Colab_pic.png" alt="Google Colab" width="64"/>
         </a>
         &nbsp;&nbsp;
-        <a href="https://staruml.io/" target="_blank" rel="noreferrer">
-          <img src="https://media.imgcdn.org/repo/2023/03/staruml/staruml-for-macos-logo.png" alt="StarUML" width="40"/>
-        </a>
       </td>
     </tr>
     <tr>
