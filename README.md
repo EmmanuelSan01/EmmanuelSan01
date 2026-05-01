@@ -60,7 +60,7 @@
           <th align="left">💾 Databases</th>
       <td align="center">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="42"/>
+          <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="42"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
