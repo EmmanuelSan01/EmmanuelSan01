@@ -141,20 +141,18 @@
 <details open>
   <summary><strong>📊 More Stats:</strong></summary>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelsan01&show_icons=true&locale=en&layout=compact&bg_color=DEG,087CFA,FF2957&hide_border=true&text_color=FFFFFF&title_color=E7F702&icon_color=E7F702" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=emmanuelsan01&show_icons=true&locale=en&layout=compact&bg_color=DEG,087CFA,FF2957&hide_border=true&text_color=FFFFFF&title_color=E7F702&icon_color=E7F702" alt="Most Used Languages"/>
     </div>
     
   <br>
     
   <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=emmanuelsan01&show_icons=true&locale=en&hide=stars,issues&rank_icon=percentile&bg_color=DEG,087CFA,FF2957&hide_border=true&text_color=FFFFFF&title_color=E7F702&icon_color=E7F702" alt="Github Stats"/>
+    <img src="https://github-readme-stats-extended.vercel.app/api?username=emmanuelsan01&show_icons=true&locale=en&hide=stars,issues&rank_icon=percentile&bg_color=DEG,087CFA,FF2957&hide_border=true&text_color=FFFFFF&title_color=E7F702&icon_color=E7F702" alt="Github Stats"/>
   </div>
     
   <br>
     
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=emmanuelsan01&theme=discord&title=-Stars,-Issues,-Reviews&no-frame=true&column=5&no-bg=true" alt="Github Trophys"/>
-    </a>
+    <img src="https://github-trophies.vercel.app/?username=emmanuelsan01&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&column=3&no-bg=true" alt="Github Trophys"/>
   </div>
 </details>
